@@ -1,0 +1,6 @@
+hs_sdssspec/
+*pyc
+*mcmc
+*h5
+*model
+*pdf
